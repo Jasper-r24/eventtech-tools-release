@@ -1,6 +1,5 @@
 {
-  "version": "1.8.0",
-  "versionCode": 9,
-  "changelog": "- Wurfweiten-Rechner: Visualisierung korrigiert",
-  "apkUrl": "https://github.com/Jasper-r24/eventtech-tools-release/releases/download/v1.8.0/app-release.apk"
+  "versionCode": 10,
+  "versionName": "1.9.0",
+  "changelog": "### v1.9.0\n- Soundboard: Sounds & Musik abspielen\n- Szenen mit benannten Buttons\n- Lokale Audiodateien mit Start/End-Zeitpunkt\n- Spotify-Integration (URI → öffnet Spotify-App)\n- Backup & Wiederherstellen\n- Dashboard: Sortierung jetzt mit 10 Tools, Erweiterung um Soundeffekte oder Songs geordnet einspielen zu können"
 }
